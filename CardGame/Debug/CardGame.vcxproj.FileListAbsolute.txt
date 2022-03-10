@@ -1,0 +1,2 @@
+D:\homework\大二下\AI\CardGame\CardGame\Debug\CardGame.exe
+D:\homework\大二下\AI\CardGame\CardGame\Debug\CardGame.pdb
